@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "text": "Finish designing the navigation",
+      "day": "This week",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Submit the co-op form",
+      "day": "Friday",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Finish Laravel Crash Course",
+      "day": "Next weekend",
+      "reminder": false,
+      "id": 3
+    }
+  ]
+}
